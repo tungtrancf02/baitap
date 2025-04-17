@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quanlybenhvien/Quanlybenhvien.iml" filepath="$PROJECT_DIR$/Quanlybenhvien/Quanlybenhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thi_cuoi_ki/Thi_cuoi_ki.iml" filepath="$PROJECT_DIR$/Thi_cuoi_ki/Thi_cuoi_ki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitapjavathaytho/baitapjavathaytho.iml" filepath="$PROJECT_DIR$/baitapjavathaytho/baitapjavathaytho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitaptrenlop/baitaptrenlop.iml" filepath="$PROJECT_DIR$/baitaptrenlop/baitaptrenlop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledlab6/csdl/csdl.iml" filepath="$PROJECT_DIR$/untitledlab6/csdl/csdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giaodien/giaodien.iml" filepath="$PROJECT_DIR$/giaodien/giaodien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoconha/hoconha.iml" filepath="$PROJECT_DIR$/hoconha/hoconha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/javacoban.iml" filepath="$PROJECT_DIR$/javacoban/javacoban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/javanangcao.iml" filepath="$PROJECT_DIR$/javanangcao/javanangcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javathread/javathread.iml" filepath="$PROJECT_DIR$/javathread/javathread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4/lab-4.iml" filepath="$PROJECT_DIR$/lab-4/lab-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/lab8.iml" filepath="$PROJECT_DIR$/lab8/lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontapdauki2/ontapdauki2.iml" filepath="$PROJECT_DIR$/ontapdauki2/ontapdauki2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontapgiauki1/ontapgiauki1.iml" filepath="$PROJECT_DIR$/ontapgiauki1/ontapgiauki1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titv/titv.iml" filepath="$PROJECT_DIR$/titv/titv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tranvantung.iml" filepath="$PROJECT_DIR$/tranvantung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tranvantung2/tranvantung2.iml" filepath="$PROJECT_DIR$/tranvantung2/tranvantung2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tung_titv/tung_titv.iml" filepath="$PROJECT_DIR$/tung_titv/tung_titv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledlab6/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitledlab6/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledlab6/untitledlab6.iml" filepath="$PROJECT_DIR$/untitledlab6/untitledlab6.iml" />
+    </modules>
+  </component>
+</project>

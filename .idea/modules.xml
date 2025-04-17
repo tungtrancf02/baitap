@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javacoban/Quanlybenhvien/Quanlybenhvien.iml" filepath="$PROJECT_DIR$/javacoban/Quanlybenhvien/Quanlybenhvien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/Thi_cuoi_ki/Thi_cuoi_ki.iml" filepath="$PROJECT_DIR$/javacoban/Thi_cuoi_ki/Thi_cuoi_ki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai1/bai1.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai13_3/bai13_3.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai13_3/bai13_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai2/bai2.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai3/bai3.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai3/bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai4/bai4.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai4/bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/bai5/bai5.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/bai5/bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/baitap2/baitap2.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/baitap2/baitap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/src/baitapjavathaytho/baitapjavathaytho.iml" filepath="$PROJECT_DIR$/javacoban/src/baitapjavathaytho/baitapjavathaytho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/baitaplop.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/baitaplop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/src/baitaptrenlop/baitaptrenlop.iml" filepath="$PROJECT_DIR$/javacoban/src/baitaptrenlop/baitaptrenlop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/banhmi/banhmi.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/banhmi/banhmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/btjava/btjava.iml" filepath="$PROJECT_DIR$/javanangcao/btjava/btjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/compossition/compossition.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/compossition/compossition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/dauki/src/cossummer.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/dauki/src/cossummer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/untitledlab6/csdl/csdl.iml" filepath="$PROJECT_DIR$/javacoban/untitledlab6/csdl/csdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/dauki/dauki.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/dauki/dauki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/day6_3/day6_3.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/day6_3/day6_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/giaodien/giaodien.iml" filepath="$PROJECT_DIR$/javacoban/giaodien/giaodien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/git/git.iml" filepath="$PROJECT_DIR$/javanangcao/git/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/hash/hash.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/hash/hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/hoconha/hoconha.iml" filepath="$PROJECT_DIR$/javacoban/hoconha/hoconha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/javacoban.iml" filepath="$PROJECT_DIR$/javacoban/javacoban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/javanangcao.iml" filepath="$PROJECT_DIR$/javanangcao/javanangcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/javathread/javathread.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/javathread/javathread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/lab-4/lab-4.iml" filepath="$PROJECT_DIR$/javacoban/lab-4/lab-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/lab5/lab5.iml" filepath="$PROJECT_DIR$/javacoban/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/lab8/lab8.iml" filepath="$PROJECT_DIR$/javacoban/lab8/lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/ontapdauki2/ontapdauki2.iml" filepath="$PROJECT_DIR$/javacoban/ontapdauki2/ontapdauki2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/ontapgiauki1/ontapgiauki1.iml" filepath="$PROJECT_DIR$/javacoban/ontapgiauki1/ontapgiauki1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/titv/titv.iml" filepath="$PROJECT_DIR$/javacoban/titv/titv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tranvantung.iml" filepath="$PROJECT_DIR$/tranvantung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/tranvantung2/tranvantung2.iml" filepath="$PROJECT_DIR$/javacoban/tranvantung2/tranvantung2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/tung_titv/tung_titv.iml" filepath="$PROJECT_DIR$/javacoban/tung_titv/tung_titv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/untitledlab6/untitled/untitled.iml" filepath="$PROJECT_DIR$/javacoban/untitledlab6/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacoban/untitledlab6/untitledlab6.iml" filepath="$PROJECT_DIR$/javacoban/untitledlab6/untitledlab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanangcao/baitaplop/vetau/vetau.iml" filepath="$PROJECT_DIR$/javanangcao/baitaplop/vetau/vetau.iml" />
+    </modules>
+  </component>
+</project>
